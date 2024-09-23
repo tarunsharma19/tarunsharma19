@@ -11,9 +11,9 @@
 </p>
 
 
-[![Twitter: Tarun](https://img.shields.io/badge/TarunSharmaa_-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/tarunsahrmaa_/)
+[![Twitter: Tarun](https://img.shields.io/badge/tarunsh.tez-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/tarunsahrmaa_/)
 [![Linkedin: Tarun](https://img.shields.io/badge/TarunSharma19-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tarunsharma19/)
-[![Discord Badge](https://img.shields.io/badge/tarun_sharma-Discord-7289d9?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/tarun_sharma)
+[![Discord Badge](https://img.shields.io/badge/Tarun-Discord-7289d9?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/tarun_sharma)
 <a href="https://github.com/tarunsharma19/"> ![GitHub followers](https://img.shields.io/github/followers/tarunsharma19?label=Follow&style=social)</a>
 
 
