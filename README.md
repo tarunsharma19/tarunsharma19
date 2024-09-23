@@ -124,13 +124,13 @@ I code, debug, and learn 👨‍💻
     <td>
      <details open>	
       <summary><b>📈 Github Stats</b></summary>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarunsahrma19&theme=dracula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarunsharma19&theme=dracula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
       </details>
     </td>
     <td>
      <details open>	
       <summary><b>🎯 Github Streaks</b></summary>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunsahrma19&&theme=dracula&hide_border=true" />
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunsharma19&&theme=dracula&hide_border=true" />
      </details>
     </td>
    </tr>
@@ -138,14 +138,14 @@ I code, debug, and learn 👨‍💻
     <td>
      <details open>	
       <summary><b>🌐 Most used Languages</b></summary>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsahrma19&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsharma19&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
      </details>
     </td>
     <td>
      <details open>	
       <summary><b>😍 How much I code</b></summary>
       <a href="https://wakatime.com/@2aa2ce95-8b1c-4481-b4d9-b9edc9cb2630"><img src="https://wakatime.com/badge/user/2aa2ce95-8b1c-4481-b4d9-b9edc9cb2630.svg?style=flat-square"></a>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tarunsahrma19&layout=compact&theme=dracula&langs_count=8&hide_border=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tarunsharma19&layout=compact&theme=dracula&langs_count=8&hide_border=true" />
      </details>
     </td>
    </tr>
@@ -153,7 +153,7 @@ I code, debug, and learn 👨‍💻
     <td colspan="2">
       <details open>
         <summary><b>⛰️ Contributions Himalayas ahead!</b></summary>
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunsahrma19&bg_color=282a36&color=ffffff&line=e36594&point=c885ff&area=true&hide_border=true&custom_title=Commits+go+up+%E2%98%9D+Commits+go+down+%F0%9F%91%87" />
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunsharma19&bg_color=282a36&color=ffffff&line=e36594&point=c885ff&area=true&hide_border=true&custom_title=Commits+go+up+%E2%98%9D+Commits+go+down+%F0%9F%91%87" />
      </details>
     </td>
    </tr>
