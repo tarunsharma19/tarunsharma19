@@ -121,11 +121,11 @@ I code, debug, and learn 👨‍💻
 
 <table>
   <tr>
-    <td>
+     <td>
      <details open>	
-      <summary><b>📈 Github Stats</b></summary>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarunsharma19&theme=dracula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-      </details>
+      <summary><b>🌐 Most used Languages</b></summary>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsharma19&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+     </details>
     </td>
     <td>
      <details open>	
@@ -135,20 +135,6 @@ I code, debug, and learn 👨‍💻
     </td>
    </tr>
   <tr>
-    <td>
-     <details open>	
-      <summary><b>🌐 Most used Languages</b></summary>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsharma19&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-     </details>
-    </td>
-    <td>
-     <details open>	
-      <summary><b>😍 How much I code</b></summary>
-      <a href="https://wakatime.com/@2aa2ce95-8b1c-4481-b4d9-b9edc9cb2630"><img src="https://wakatime.com/badge/user/2aa2ce95-8b1c-4481-b4d9-b9edc9cb2630.svg?style=flat-square"></a>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tarunsharma19&layout=compact&theme=dracula&langs_count=8&hide_border=true" />
-     </details>
-    </td>
-   </tr>
    <tr>
     <td colspan="2">
       <details open>
